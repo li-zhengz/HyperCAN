@@ -1,0 +1,36 @@
+learning_rate:
+  values: [5.e-4]
+epochs:
+  values: [1000]
+batch_size:
+  values: [64]
+mlp_output_dim:
+  values: [1]
+c_hidden_dim:
+  values: [[20,20,20]]
+icnn_activation_func:
+  values: ['squared_softplus']
+derivative_calculation:
+  values: ['dW_dK_dC']
+learner_dim:
+  values: [[256,256,256,256]]
+fully_learner_dim:
+  values: [[256,256,256,256]]
+skip_learner_dim:
+  values: [[256,128,128,128]]
+non_diagonal_weight:
+  values: [[False, 1.]]
+diagonal_weight:
+  values: [[True, 1.]]
+energy_loss_weight:
+  values: [1.]
+stress_loss_weight:
+  values: [5.]
+layer_type:
+  values: ['convex']
+scaling_sftpSq:
+  values: [1.4e-1]
+biaxial_scaling:
+  values: [30.]
+activation_func:
+  values: ['leaky_relu']
