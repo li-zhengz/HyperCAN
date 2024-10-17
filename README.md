@@ -1,7 +1,7 @@
 <h1 align="center">HyperCAN: Hypernetwork-driven deep parameterized constitutive models for metamaterials</h1>
 <h4 align="center">
-<a href="https://doi.org/10.1016/j.eml.2024.102243"><img alt="Static Badge" src="https://img.shields.io/badge/DOI-https%3A%2F%2Fdoi.org%2F10.1016%2Fj.eml.2024.102243-blue">
-</a>
+<a href="https://doi.org/10.1016/j.eml.2024.102243"><img alt="Static Badge" src="https://img.shields.io/badge/DOI-https%3A%2F%2Fdoi.org%2F10.1016%2Fj.eml.2024.102243-blue"></a>
+<a href="https://zenodo.org/records/13947082"><img alt="Static Badge" src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.13947082-blue"></a>
 </h4>
 <div align="center">
   <span class="author-block">
